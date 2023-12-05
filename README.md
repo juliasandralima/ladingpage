@@ -1,9 +1,10 @@
 # ladingpage
 
-
- # descrição 
- fazer uma landing page para um novo negócio que está abrindo na Saul Elkind, uma cafeteria. A ideia da landing page é oferecer promoções e anunciar os produtos e serviços desse novo negócio aos potenciais consumidores da região. A empresa usará sua landing page para divulgar o início das operações do negócio pelo instagram institucional.]
  <img src="img/cafe.png" width="100%">
+ 
+ # descrição 
+ fazer uma landing page para um novo negócio que está abrindo na Saul Elkind, uma cafeteria. A ideia da landing page é oferecer promoções e anunciar os produtos e serviços desse novo negócio aos potenciais consumidores da região. A empresa usará sua landing page para divulgar o início das operações do negócio pelo instagram institucional.
+
 
 # indrodução 
   o objetivo é divulgar informações sobre a nova cafeteria na saul elkind
