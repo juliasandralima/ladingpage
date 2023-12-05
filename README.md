@@ -1,4 +1,4 @@
-# projeto-CadEnderco
+# ladingpage
 este projeto ajuda enteder como pode funcionar um estabelecimento.
  <img src="img/cafe.png" width="100%">
 
