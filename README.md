@@ -1,7 +1,7 @@
 # ladingpage
 
  <img src="img/cafe.png" width="100%">
- 
+
  # descrição 
  fazer uma landing page para um novo negócio que está abrindo na Saul Elkind, uma cafeteria. A ideia da landing page é oferecer promoções e anunciar os produtos e serviços desse novo negócio aos potenciais consumidores da região. A empresa usará sua landing page para divulgar o início das operações do negócio pelo instagram institucional.
 
@@ -19,7 +19,7 @@
 **java script**
 
 # fontes consultadas 
-ogle:** Utilizamos o Google como fonte de inspiração e pesquisa.    
+**google:** Utilizamos o Google como fonte de inspiração e pesquisa.    
 **Visual Studio Code:** Ferramenta de desenvolvimento integrada para codificação eficiente.   
 **GitHub:** Repositório para o controle de versão do código-fonte.    
 **JavaScript:** Linguagem de programação para interatividade e dinamismo.   
